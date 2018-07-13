@@ -16,7 +16,7 @@ words = [
 ]
 
 while True:
-    start = input("Press enter/return to start, or enter Q to quit")
+    start = input("Press enter/return to start, or enter Q to quit ")
     if start.lower() == 'q':
         break
 
